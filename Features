@@ -1,0 +1,5 @@
+Basic Arithmetic Operations: Supports addition, subtraction, multiplication, division, and modulus.
+User-Friendly UI: Designed with a sleek dark-themed interface.
+Responsive Layout: Buttons are arranged neatly for easy access.
+Error Handling: Displays an error message for invalid calculations.
+Centered Window: The application automatically centers itself on the screen upon launch
